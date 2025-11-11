@@ -1,4 +1,4 @@
-# Interactive GDP data viewer
+**Interactive GDP data viewer**
 
 Data: selected World Bank GDP indicators (data.worldbank.org)
 
